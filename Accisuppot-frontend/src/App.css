@@ -46,16 +46,16 @@
 }
 /* styles.css */
 .background-image {
-  background-image: url("D:/CDAC Project/AcciSupport-main/accisuppot-frontend/src/components/Header-Footer/assets/backgroundMain.jpg");
+  background-image: url("D:\CDAC Project\AcciSupport\Accisuppot-frontend\src\components\Header-Footer\assets\backgroundMain.jpg");
   background-size: cover; /* Adjust to your needs */
   /* Other background properties like repeat, position, etc. can be added here */
 }
 .Footer-image{
-  background-image: url("D:/CDAC Project/AcciSupport-main/accisuppot-frontend/src/components/Header-Footer/assets/FooterMain1.jpg");
+  background-image: url("D:\CDAC Project\AcciSupport\Accisuppot-frontend\src\components\Header-Footer\assets\FooterMain1.jpg");
   background-size: cover; 
 }
 .App-logo{
-  background-image: url("D:/CDAC Project/AcciSupport-main/accisuppot-frontend/src/components/Header-Footer/assets/logo.png");
+  background-image: url("D:\CDAC Project\AcciSupport\Accisuppot-frontend\src\components\Header-Footer\assets\logo.png");
   background-size: cover; 
 
 }
